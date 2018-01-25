@@ -1,1 +1,1 @@
-# school.task3
+task3
